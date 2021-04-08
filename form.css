@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    border: 1px solid black;
+    outline: none;
+    margin-left: 35%;
+    margin-right: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    display: grid;
+    background-color: whitesmoke;
+}
+.box1 h4 a{
+    border-radius: 5px;
+    border: 5px;
+    background-color: red;
+    color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+p{
+    color: black;
+}
+h4{
+    color: black;
+}
+h2{
+    border-radius: 5px;
+    border: 5px;
+    background-color: red;
+    color: white;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+div h3{
+    color: grey;
+}
+h5{
+    margin-left: 35%;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+/* reistration form login */
+
+.reg{
+    border: 1px solid black;
+    outline: none;
+    margin-left: 30%;
+    margin-right: 45%;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    padding-left: 30px;
+    padding-bottom: -5px;
+    padding-right: 20px;
+    background-color: whitesmoke;
+}
+.reg input{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    justify-content: center;
+    display: block;
+    padding-left: 20px;
+}
+.btn{
+    background-color: skyblue;
+    padding-right: 30px;
+    padding-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    outline: none;
+    align-items: center;
+    justify-content: center; 
+    font-weight: 800;
+    text-align: center;
+    margin-left: 50px;
+}
+.reg h3{
+    outline: none;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    padding-left: 30px;
+    padding-bottom: -5px;
+    padding-right: 20px;
+    color: rgb(2, 77, 107);
+}
+.new img{
+    margin-right: 310px;
+    outline: none;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
